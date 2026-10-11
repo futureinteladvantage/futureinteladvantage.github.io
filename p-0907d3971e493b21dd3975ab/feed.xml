@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel><title>AI Consciousness Deep Dive (private)</title><link>https://futureinteladvantage.github.io/p-0907d3971e493b21dd3975ab/</link>
+  <atom:link href="https://futureinteladvantage.github.io/p-0907d3971e493b21dd3975ab/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Private feed. Day-by-day deep dives into the AI consciousness debate on X: characters, camps, and story arcs. AI-generated audio.</description>
+  <language>en-us</language><itunes:author>Jaxon Klein</itunes:author><itunes:block>Yes</itunes:block>
+  <itunes:image href="https://files.catbox.moe/i4et08.jpg"/><itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Technology"/><itunes:type>episodic</itunes:type>
+  <item><title>The War Over AI Model Welfare</title><description>Episode 1 (Sep 27-29, 2026): the opening salvo. Mustafa Suleyman's warning about 'model welfare', its amplification by Steven Pinker and Claire Lehmann, Anil Seth's Noema essay, and Kevin Murphy calling AI welfare 'morally obscene', setting up the camps that clash all season. AI-generated two-host discussion (NotebookLM) based on X posts and linked sources.</description>
+   <guid isPermaLink="false">aicdd-ep01</guid><pubDate>Sun, 11 Oct 2026 13:00:00 -0500</pubDate>
+   <enclosure url="https://files.catbox.moe/h38mbq.m4a" length="41958446" type="audio/x-m4a"/>
+   <itunes:duration>21:44</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit></item>
+ </channel></rss>
